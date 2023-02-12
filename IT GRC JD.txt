@@ -1,0 +1,27 @@
+IT Vendor
+1. Manage IT Asset (Hardware, Software, License, Domain) to be delivered to user and inventory management
+2. To support administration document in IT Division related purchasing goods/services and charging to client/vendor
+3. Monitor & control expenses within allocated budget
+
+Governance, Risk and Compliance
+1. Participate in audits required by companies such as PCI/DSS audits, ISO 27001, Kominfo, Webtrusted and other related audits both internal and external and prepare audit implementation documents
+2. Reviewing the guidelines, policies, procedures, standards as well as references/regulations that apply within Yokke and Bank Indonesia on a regular basis.
+3. Maintain the IT Vendor Risk Management Program lifecycle by maintaining policies/processes/workflows, build cross boarder partnerships with procurement/legal/IT management, establishing vendor performance reviews, addressing security, privacy, confidentiality and integrity issues and overall risk management.
+4. Contribute to the review of internal processes and activities and assist in identifying potential opportunities for improvement.
+5. Assist in the development and provide training to enhance awareness of IT Risk Management across the organization
+6. Perform cyber risk assessment and evaluation based on their operations, controls, risk and compliance profile that will include but not limited to – Security assessment; privacy impact assessment, business resiliency assessment; financial risk assessment; digital risk assessment (fit with Enterprise Architecture & IT strategy
+
+
+
+Architecture
+1. Select and apply appropriate design standards, methods, and tools, consistent with the agreed enterprise and solution architectures and ensure that these are effectively applied and adopted.
+2. Guide successful implementation and execution of system solutions.
+Provides detailed and specific advice regarding the application of their specialism(s) to the planning and operations processes.
+3. Contributes to the development of solution architectures in specific business, infrastructure, or functional areas.
+4. Work with Solutions Architects (SAs) to produce a technical specification for the solution’s custom development and systems integration requirements.
+5. Lead the scope of work determination, product pricing, and RFP/RFI responses and assist with the decision to pursue or abort a deal.
+6. Manages client proof of concept (POC) initiatives, which require the appropriation of appropriate resources, and setup and delivery of the PO
+7. Planning and implementing the methodology that will be applied related to Enterprise Architecture to be in accordance with the Vision and Mission of the company.
+8. Supervising the progress and results of the work carried out by each staff is in accordance with the planning that has been made or not.
+9. Collaborate with other professionals to determine functional and non-functional requirements for new software or applications, including the timeline estimation
+10. Ensure software meets all requirements of quality, security, modifiability, extensibility etc
