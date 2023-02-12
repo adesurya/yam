@@ -1,4 +1,5 @@
 docker build -t yam .
 docker network create yamnet
-docker start -d -p 8080:8080 --net yamnet --name yamserver -d yam:latest
 docker run -e MYSQL_ROOT_PASSWORD=root -p 3306:3306 -v /tmp/mysql/:/var/lib/mysql --net yamnet -d mysql:5.7 --name yamdatabase
+##export database
+docker start -d -p 8080:8080 --net yamnet --name yamserver -d yam:latest
